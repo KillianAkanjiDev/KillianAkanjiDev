@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Killian
+# Hi there 👋 I'm Lukas Killian
 
 💻 Front-End Developer focused on clean UI, responsive design, and modern web technologies.
 
