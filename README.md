@@ -12,7 +12,9 @@
 * 🤔 Interested in helping **young coders**
 * ⚡ Fun fact: Octopuses have three hearts ❤️❤️❤️
 
----
+<p>
+  <img src="https://equinality.de/wp-content/uploads/2025/03/Happy-Very-Funny-GIF-by-Disney-Zootopia.gif" width="400"/>
+</p>
 
 ## 🛠️ Tech Stack
 
