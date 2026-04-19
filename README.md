@@ -41,7 +41,3 @@
 ## 🤝 Connect with Me
 
 * GitHub: https://github.com/KillianAkanjiDev
-
----
-
-⭐️ From KillianAkanjiDev
